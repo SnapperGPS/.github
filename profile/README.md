@@ -19,3 +19,19 @@ In this GitHub organisation, you can find:
 * The [firmware](https://github.com/SnapperGPS/snappergps-firmware) that runs on your SnapperGPS receivers.
 * A [daughterboard with an accelerometer](https://github.com/SnapperGPS/snappergps-accelerometer-daughterboard).
 * Some [Python scripts](https://github.com/SnapperGPS/snappergps-scripts) for your post-processing.
+
+### Acknowledgements
+
+SnapperGPS was developed in the Department of Computer Science
+of the University of Oxford and is currently maintained by
+[Jonas Beuchert](https://users.ox.ac.uk/~kell5462/) under supervision of
+[Alex Rogers](https://www.cs.ox.ac.uk/people/alex.rogers/).
+
+Jonas Beuchert is
+funded by the EPSRC Centre for Doctoral Training in
+Autonomous Intelligent Machines and Systems
+(DFT00350-DF03.01) and works on
+SnapperGPS as part of his doctoral studies.
+The implementation of SnapperGPS 
+was co-funded by EPSRC IAA Technology Funds
+(D4D00010-BL14 and D4D00190-BL03.01).
