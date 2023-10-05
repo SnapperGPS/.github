@@ -19,6 +19,7 @@ In this GitHub organisation, you can find:
 * The [firmware](https://github.com/SnapperGPS/snappergps-firmware) that runs on your SnapperGPS receivers.
 * A [daughterboard with an accelerometer](https://github.com/SnapperGPS/snappergps-accelerometer-daughterboard).
 * Some [Python scripts](https://github.com/SnapperGPS/snappergps-scripts) for your post-processing.
+* A [user forum](https://github.com/orgs/SnapperGPS/discussions).
 
 ### Acknowledgements
 
