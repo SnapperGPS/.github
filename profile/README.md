@@ -16,7 +16,7 @@ It employs the snapshot GNSS technology, which offloads the computationally expe
 * Is [certified](https://certification.oshwa.org/uk000049.html) open-source hardware.
 
 In this GitHub organisation, you can find:
-* Manufacturing files, design files, and instructions to build various versions of the SnapperGPS receiver yourself: [V1.0.0](https://github.com/SnapperGPS/snappergps-pcb), [V2.0.0](https://github.com/SnapperGPS/snappergps-pcb-2), [V2.1.0](https://github.com/SnapperGPS/snappergps-pcb-2-1), [V2.2.0](https://github.com/SnapperGPS/snappergps-pcb-2-2).
+* Manufacturing files, design files, and instructions to build various versions of the SnapperGPS receiver yourself: [V1.0.0](https://github.com/SnapperGPS/snappergps-pcb), [V2.0.0](https://github.com/SnapperGPS/snappergps-pcb-2), [V2.1.0](https://github.com/SnapperGPS/snappergps-pcb-2-1), [V2.2.0](https://github.com/SnapperGPS/snappergps-pcb-2-2), [V2.2.0-lipo](https://github.com/SnapperGPS/snappergps-pcb-2-2/tree/lipo).
 * [Housing solutions](https://github.com/SnapperGPS/snappergps-housings) for your SnapperGPS receivers.
 * The [frontend](https://github.com/SnapperGPS/snappergps-app) and [backend](https://github.com/SnapperGPS/snappergps-backend) code for the public SnapperGPS [web app](https://snappergps.info/).
 * The [firmware](https://github.com/SnapperGPS/snappergps-firmware) that runs on your SnapperGPS receivers.
