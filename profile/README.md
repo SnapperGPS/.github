@@ -1,6 +1,6 @@
 # SnapperGPS
 
-[https://snappergps.info/](https://snappergps.info/)
+[Website](https://snappergps.github.io/snappergps-app-v2/public/)
 
 
 ![SnapperGPS PCB](https://github.com/SnapperGPS/snappergps-pcb-2-2/blob/main/images/white.png)
@@ -18,7 +18,7 @@ It employs the snapshot GNSS technology, which offloads the computationally expe
 In this GitHub organisation, you can find:
 * Manufacturing files, design files, and instructions to build various versions of the SnapperGPS receiver yourself: [V1.0.0](https://github.com/SnapperGPS/snappergps-pcb), [V2.0.0](https://github.com/SnapperGPS/snappergps-pcb-2), [V2.1.0](https://github.com/SnapperGPS/snappergps-pcb-2-1), [V2.2.0](https://github.com/SnapperGPS/snappergps-pcb-2-2), [V2.2.0-lipo](https://github.com/SnapperGPS/snappergps-pcb-2-2/tree/lipo).
 * [Housing solutions](https://github.com/SnapperGPS/snappergps-housings) for your SnapperGPS receivers.
-* The [frontend](https://github.com/SnapperGPS/snappergps-app) and [backend](https://github.com/SnapperGPS/snappergps-backend) code for the public SnapperGPS [web app](https://snappergps.info/).
+* The [frontend](https://github.com/SnapperGPS/snappergps-app-v2) and [backend](https://github.com/SnapperGPS/snappergps-backend-v2) code for the public SnapperGPS [web app](https://snappergps.github.io/snappergps-app-v2/public/).
 * The [firmware](https://github.com/SnapperGPS/snappergps-firmware) that runs on your SnapperGPS receivers.
 * A [daughterboard with an accelerometer](https://github.com/SnapperGPS/snappergps-accelerometer-daughterboard).
 * Some [Python scripts](https://github.com/SnapperGPS/snappergps-scripts) for your post-processing.
